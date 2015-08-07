@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 Advanced Quantitative Methods - NURP 6015 - Fall 2015
 =====================================================
 
@@ -26,34 +29,31 @@ Resources
 
 ### Textbooks ###
 
-Most of the readings for the class are drawn from the following books.
+Most of the readings for the class are drawn from the following three books. I have tried to use only free textbooks where possible.
 
-- James, G. et al. (2013). An Introduction to Statistical Learning with
-Applications in R. Springer. Available at: \url{http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf}
-- Lander, J. P. (2014). R for everyone: Advanced Analytics and Graphics.
-Addison-Wesley.
+- Diez, D., Barr, C. Çetinkaya-Rundel, M. (2014). Introductory Statistics with Randomization and Simulation. First Edition. Available free of charge at: [https://www.openintro.org/stat/textbook.php?stat_book=isrs](https://www.openintro.org/stat/textbook.php?stat_book=isrs)
+- James, G. et al. (2013). An Introduction to Statistical Learning with Applications in R. Springer. Available free of charge at: [http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+- Lander, J. P. (2014). R for everyone: Advanced Analytics and Graphics. Addison-Wesley.
 
-Additional ressources that may be useful for some students include:
+There are thousands of books and other resources for learning statistical methods available on the internet. Some additional resources that may be useful include:
 
-- If you enjoy a more verbose and humorous writing style: Field, A., Miles, J. & Field, Z. (2012). Discovering Statistics Using R.  SAGE Publications.
-- Terse and to the point, with an economics focus: Gujarati, D. (2011). Econometrics by Example. Palgrave-Macmillan.
-- More on the different free/open-source software that are combined in reproducible research: Gandrud, C. (2013). Reproducible Research with R and R Studio. CRC Press.
+- A more verbose introductory statistics book with very little mathematics: Field, A., Miles, J. & Field, Z. (2012). Discovering Statistics Using R.  SAGE Publications.
+- A more mathematical textbook on probability and statistical theory: Kerns, G.J. (2010). Introduction to Probability and Statistics Using R. [https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
+- More on the different free/open-source software that are combined in reproducible research (R, Git, knitr, Latex): Gandrud, C. (2013). Reproducible Research with R and R Studio. CRC Press.
 
 Certain readings will be posted on Canvas (please check this syllabus and your email for announcements.)
 
 
 ### Software and Computing ###
 
-Computers have transformed how statistical analysis is conducted in everyday work. In this class, we will
-learn how to use the computer for collaborating in groups, managing and analysing data, and writing reports. All of this
-will be done using the following very widely used, free and open-source software. Mastering these tools, even only their very basics, will give you a huge advantage in both industry and academia.
+Computers have transformed how statistical analysis is conducted in everyday work. In this class, we will learn how to use the computer for collaborating in groups, managing and analysing data, and writing reports. All of this will be done using the following very widely used, free and open-source software. Mastering these tools, even only their very basics, will give you a huge advantage in both industry and academia.
 
 - *R*, a system for statistical analyses and graphics. *R* is available as a free download from [http://www.r-project.org](http://www.r-project.org).
 - You also need to install a front-end called *RStudio*, an integrated development
 environment for *R*, available free of charge from [http://www.rstudio.com/products/rstudio/download/](http://www.rstudio.com/products/rstudio/download/).
 - The version control software *Git*, and in particular the simplified version provided by Github. *Git* combines functions of backup, version control and collaboration on code and documents. You will need to open a free account on [http://www.github.com](http://www.github.com) and download the Github application.
 
-If you plan on using your own computer during the semester, try installing *R* and *RStudio* before the first class. This way, I can help you if you run into difficulties during the installation.
+If you plan on using your own computer during the semester, try installing these software packages before the first class. This way, I can help you if you run into difficulties during the installation.
 
 
 ### University resources ###
@@ -105,7 +105,7 @@ During the course of the semester, you will be working on a research project usi
 
 ## Class Schedule ##
 
-The following schedule is *tentative*.
+The following schedule is *tentative* and *incomplete*.
 
 #### Week 1: Introduction
 
@@ -129,24 +129,16 @@ Importing data. Exploratory data analysis (EDA). Summarizing and Plotting.
 #### Week 5: Regression models and statistical inference
 
 - Lander  16
-- Gujarati 1
 
 #### Week 6: Sampling distribution. Statistical inference. Possible data problems
 
-- Gujarati 2
-- Lander 15.1, 15.2
-
 #### Week 7: Model building: Multivariate regressions. Transformations.
-
-- Gujarati 3
 
 #### Week 8: Interactions and predictions. Residual diagnostics and model comparison.
 
-- Gujarati 4-6
 - Lander 18.1, 18.2
 
 #### Week 9: Model misspecification. Experimental vs. observational studies.  
-- Gujarati 7
 
 #### Week 10: Causal inference.
 
@@ -159,12 +151,10 @@ Importing data. Exploratory data analysis (EDA). Summarizing and Plotting.
 
 #### Week 12: Logistic Regression 1 (interpretation)
 
-- Gujarati 8
 - Lander 17.1
 
 #### Week 13: Logistic regression 2 (model assessment, multinomial).  
 
-- Gujarati 9
 - James et al. 5.2
 - Lander 18.3
 
@@ -179,8 +169,6 @@ Importing data. Exploratory data analysis (EDA). Summarizing and Plotting.
 - Swirl course: Exploratory Data Analysis, Clustering Example
 
 #### Week 16: Multilevel modeling/Review
-
-- Gujarati 17
 
 
 ## Course Policies ##
