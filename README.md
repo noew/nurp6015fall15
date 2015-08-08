@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 Advanced Quantitative Methods - NURP 6015 - Fall 2015
 =====================================================
 
@@ -29,16 +26,15 @@ Resources
 
 ### Textbooks ###
 
-Most of the readings for the class are drawn from the following three books. I have tried to use only free textbooks where possible.
+Most of the readings for the class are drawn from the following three books. I have tried to use only free textbooks where possible. Successful completion of the course requires you to read some material that goes beyond what we discuss in class. 
 
-- Diez, D., Barr, C. Çetinkaya-Rundel, M. (2014). Introductory Statistics with Randomization and Simulation. First Edition. Available free of charge at: [https://www.openintro.org/stat/textbook.php?stat_book=isrs](https://www.openintro.org/stat/textbook.php?stat_book=isrs)
+- Diez, D., Barr, C. Çetinkaya-Rundel, M. (2014). Introductory Statistics with Randomization and Simulation. First Edition. Available free of charge at: [https://www.openintro.org/stat/textbook.php?stat_book=isrs](https://www.openintro.org/stat/textbook.php?stat_book=isrs). 
 - James, G. et al. (2013). An Introduction to Statistical Learning with Applications in R. Springer. Available free of charge at: [http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 - Lander, J. P. (2014). R for everyone: Advanced Analytics and Graphics. Addison-Wesley.
 
 There are thousands of books and other resources for learning statistical methods available on the internet. Some additional resources that may be useful include:
 
 - A more verbose introductory statistics book with very little mathematics: Field, A., Miles, J. & Field, Z. (2012). Discovering Statistics Using R.  SAGE Publications.
-- A more mathematical textbook on probability and statistical theory: Kerns, G.J. (2010). Introduction to Probability and Statistics Using R. [https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf)
 - More on the different free/open-source software that are combined in reproducible research (R, Git, knitr, Latex): Gandrud, C. (2013). Reproducible Research with R and R Studio. CRC Press.
 
 Certain readings will be posted on Canvas (please check this syllabus and your email for announcements.)
@@ -55,7 +51,6 @@ environment for *R*, available free of charge from [http://www.rstudio.com/produ
 
 If you plan on using your own computer during the semester, try installing these software packages before the first class. This way, I can help you if you run into difficulties during the installation.
 
-
 ### University resources ###
 
 The following university resources may help you achieve academic success in this class:
@@ -66,7 +61,8 @@ use.
 - The University Learning Center ([http://www.newschool.edu/learning-center](http://www.newschool.edu/learning-center)), which offers math tutoring (including statistics)
 - The University (and associated) Libraries: ([http://library.newschool.edu](http://library.newschool.edu))
 
-## Learning Goals ##
+Learning Goals
+--------------
 
 By the end of this course, I hope that you will have made progress towards learning
 
@@ -78,7 +74,8 @@ report.
 - Understand the importance of reproducibility and a structured workflow in group projects. Learn how to use computer software for this purpose (R scripts, version control).
 - Qualitative & quantitative reasoning: How to think abstractly about complex processes and develop models that capture this complexity at the appropriate level of abstraction.
 
-## Assessments and grades ##
+Assessments and grades
+----------------------
 
 The grade for the class is based on the following elements. Assignments should be submitted in electronic format through Canvas. Double check that your assignment was submitted: If Canvas doesn't say so, I won't have your assignment.
 
@@ -103,66 +100,73 @@ During the course of the semester, you will be working on a research project usi
 | Mid-term exam           | 25%                   | ca. 9 November   |
 | Research project        | 50%                   | 21 December      |
 
-## Class Schedule ##
+Class Schedule
+--------------
 
 The following schedule is *tentative* and *incomplete*.
 
-#### Week 1: Introduction
+#### Week 1: Introduction. Getting started with R. Data basics.
 
-Introduction and overview of the class. An introduction to R. Possible
-research projects.  
-
+- Diez et al. 1
 - Lander 1, 2
 - Swirl course: Overview of statistics
 
 #### Weeks 2 and 3
 
-Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually convenient time during these two weeks to schedule at least one class on another day. If this should not be possible, I will assign a number of easy homework exercises (Swirl courses) for you to become acquainted with R.
+Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually convenient time during these two weeks to schedule at least one class on another day (instead we will drop a class later in the semester). If this should not be possible, I will assign a number of easy homework exercises (Swirl courses) for you to become acquainted with R.
 
-#### Week 4: Importing and exploring data
+#### Week 4: Importing and exploring data: Distributions and Relationships
 
-Importing data. Exploratory data analysis (EDA). Summarizing and Plotting.
-
+- Diez et al. 1
 - Lander  5.1, 6.1, 6.2, 6.6, 7
 - Swirl courses: Exploratory Data Analysis, GGPlot2parts 1 and 2
 
-#### Week 5: Regression models and statistical inference
+#### Week 5: Introduction to Inference. Simulations. Normal distribution
 
+- Diez et al. 2
 - Lander  16
 
-#### Week 6: Sampling distribution. Statistical inference. Possible data problems
+#### Week 6: Comparing two means. Introduction to linear regression.
 
-#### Week 7: Model building: Multivariate regressions. Transformations.
+- Diez et al. 4, 5
 
-#### Week 8: Interactions and predictions. Residual diagnostics and model comparison.
+#### Week 7: Inference for regression. Multivariate regression.
 
+- Diez et al. 5, 6
+
+#### Week 8: Interactions and predictions. 
+
+- Diez et al. 5, 6
 - Lander 18.1, 18.2
 
-#### Week 9: Model misspecification. Experimental vs. observational studies.  
+#### Week 9: Testing assumptions. Residual diagnostics and model comparison.  
 
-#### Week 10: Causal inference.
+- Diez et al. 6
 
-- Bloom, H.S. (2006). The Core Analytics of Randomized Experiments for Social Research. MDRC Working Papers on Research Methodology.
+#### Week 10: Model misspecification. Experimental vs. observational studies. Causal inference.
+
+- Diez et al. 1
 - Reddy, S. (2013). Randomise This! On Poor Economics. Review of Agrarian Studies (2: 2)
 
 #### Week 11: Report writing. Reproducibility.
 
 - Lander 23
 
-#### Week 12: Logistic Regression 1 (interpretation)
+#### Week 12: Introduction to Logistic Regression
 
+- Diez et al. 6
 - Lander 17.1
 
-#### Week 13: Logistic regression 2 (model assessment, multinomial).  
+#### Week 13: Logistic regression and extensions 
 
 - James et al. 5.2
 - Lander 18.3
 
-#### Week 14: Principal Component Analysis/Factor analysis
+#### Week 14: TBA (e.g. Principal Component Analysis)
 
 - James et al. 10.1, 10.2, 10.4
 
-#### Week 15: Cluster analysis (unsupervised learning)
+#### Week 15: TBA (e.g. Cluster Analysis)
 
 - James et al. 10.3, 10.5
 - Lander 22.1, 22.3
@@ -171,12 +175,13 @@ Importing data. Exploratory data analysis (EDA). Summarizing and Plotting.
 #### Week 16: Multilevel modeling/Review
 
 
-## Course Policies ##
+Course Policies
+---------------
 
 
 ### Attendance ###
 
-You are expected to attend all classes in their entirety.
+You are expected to attend all classes in their entirety. 
 
 ### Late assignments ###
 
