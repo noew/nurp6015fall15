@@ -36,6 +36,7 @@ There are thousands of books and other resources for learning statistical method
 
 - A more verbose introductory statistics book with very little mathematics: Field, A., Miles, J. & Field, Z. (2012). Discovering Statistics Using R.  SAGE Publications.
 - More on the different free/open-source software that are combined in reproducible research (R, Git, knitr, Latex): Gandrud, C. (2013). Reproducible Research with R and R Studio. CRC Press.
+- If you want to continue your studies of applied statistics, this is one of the best books: Gelman, A., Hill, J. (2007). Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge University Press.
 
 Certain readings will be posted on Canvas (please check this syllabus and your email for announcements.)
 
@@ -108,7 +109,7 @@ The following schedule is *tentative* and *incomplete*.
 #### Week 1: Introduction. Getting started with R. Data basics.
 
 - Diez et al. 1
-- Lander 1, 2
+- [ Lander 1, 2, 3, 4.1, 4.2 ]
 - Swirl course: Overview of statistics
 
 #### Weeks 2 and 3
@@ -118,30 +119,33 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 4: Importing and exploring data: Distributions and Relationships
 
 - Diez et al. 1
-- Lander  5.1, 6.1, 6.2, 6.6, 7
+- [ Lander  4, 5, 6, 7 , 12]
 - Swirl courses: Exploratory Data Analysis, GGPlot2parts 1 and 2
 
 #### Week 5: Introduction to Inference. Simulations. Normal distribution
 
 - Diez et al. 2
-- Lander  16
+- [ Lander 14, 15 ]
 
 #### Week 6: Comparing two means. Introduction to linear regression.
 
 - Diez et al. 4, 5
+- [ Lander 15, 16 ]
 
 #### Week 7: Inference for regression. Multivariate regression.
 
 - Diez et al. 5, 6
+- [ Lander 16 ]
 
 #### Week 8: Interactions and predictions. 
 
 - Diez et al. 5, 6
-- Lander 18.1, 18.2
+- [ Lander 16 ]
 
 #### Week 9: Testing assumptions. Residual diagnostics and model comparison.  
 
 - Diez et al. 6
+- [ Lander 18.1, 18.2 ]
 
 #### Week 10: Model misspecification. Experimental vs. observational studies. Causal inference.
 
@@ -155,7 +159,7 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 12: Introduction to Logistic Regression
 
 - Diez et al. 6
-- Lander 17.1
+- Lander 17
 
 #### Week 13: Logistic regression and extensions 
 
@@ -169,7 +173,7 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 15: TBA (e.g. Cluster Analysis)
 
 - James et al. 10.3, 10.5
-- Lander 22.1, 22.3
+- Lander 22
 - Swirl course: Exploratory Data Analysis, Clustering Example
 
 #### Week 16: Multilevel modeling/Review
