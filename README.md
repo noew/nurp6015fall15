@@ -1,10 +1,13 @@
+---
+output: pdf_document
+---
 Advanced Quantitative Methods - NURP 6015 - Fall 2015
 =====================================================
 
 New School for Public Engagement
 Milano School of International Affairs, Management, and Urban Policy
 
-- Class time: Monday: 8:00pm--9:50pm; Room D-901, 6 E 16th Street
+- Class time: Monday: 8:00pm--9:50pm; Room D-701, 6 E 16th Street
 - Instructor: Noe Wiener
 - email: wiener@newschool.edu
 - Office hours: Tuesday 5pm-7pm | Room TBA |
