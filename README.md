@@ -10,7 +10,7 @@ Milano School of International Affairs, Management, and Urban Policy
 - Class time: Monday: 8:00pm--9:50pm; Room D-701, 6 E 16th Street
 - Instructor: Noe Wiener
 - email: wiener@newschool.edu
-- Office hours: Tuesday 5pm-7pm | Room TBA |
+- Office hours: Tuesday 5pm-7pm; Room 308-D, University Center
 - Class website: [http://github.com/noew/nurp6015](http://github.com/noew/nurp6015)
 
 Course description
@@ -20,7 +20,7 @@ Quantitative methods are indispensable for making good decisions. All fields stu
 
 The emphasis will be on applications, with the frequent use of examples. Hands-on practice with modern computing tools is integrated into the class from the start. We will discuss how to select the appropriate tools, prepare the data for analysis and interpret and present the results. Throughout the course, we learn how to make our research reproducible by following a structured workflow, writing simple code and tracking our progress with version control software. We will also learn how to use these tools to collaborate on a research project in groups.
 
-The class builds on the linear regression model that you may have already encountered, and extends it to the multivariate case. We focus on issues of interpretation, model criticism and data transformation. In the process, we will discuss basic issues of statistical inference and introduce the distinction between observational and experimental studies, which is central to conducting policy evaluations. We then look at generalizations of the linear model, including (multinomial) logistic regression. We will spend the rest of the semester on classification and data summarizing techniques in the rapidly developing field of machine learning.
+The class builds on the linear regression model that you may have already encountered, and extends it to the multivariate case. We focus on issues of interpretation, model criticism and data transformation. In the process, we will discuss basic issues of statistical inference and introduce the distinction between observational and experimental studies, which is central to conducting policy evaluations. We then look at generalizations of the linear model, including (multinomial) logistic regression. We will spend the rest of the semester on more advanced topics, such as classification and data summarizing techniques or multilevel modeling.
 
 *Prerequisites*: Typically students will have a background equivalent to NURP 5013 - Quantitative Methods, although we will review basic concepts in this class as well. Students in this class tend to have very different levels of preparation. I am aware of this fact, and ask you to be patient if you are seeing material that you have studied before.
 
@@ -28,7 +28,7 @@ The class builds on the linear regression model that you may have already encoun
 Resources
 ---------
 
-### Textbooks ###
+### Textbooks - SUBJECT TO CHANGE ###
 
 Most of the readings for the class are drawn from the following three books. I have tried to use only free textbooks where possible. Successful completion of the course requires you to read some material that goes beyond what we discuss in class. 
 
@@ -60,8 +60,7 @@ If you plan on using your own computer during the semester, try installing these
 
 The following university resources may help you achieve academic success in this class:
 
-- Labs and work spaces operated by the office of Academic Technology (AT). For locations of facilities and hours of operation, visit [www.newschool.edu/at](www.newschool.edu/at). All open computer labs should have  *R* and *RStudio* installed and ready to
-use.
+- Labs and work spaces operated by the office of Academic Technology (AT). For locations of facilities and hours of operation, visit [www.newschool.edu/at](www.newschool.edu/at). All open computer labs should have  *R* and *RStudio* installed and ready to use.
 - The University Help Desk is the point of contact for students, faculty, and staff requiring assistance or information on all university computing issues. Email: [helpdesk@newschool.edu](helpdesk@newschool.edu)
 - The University Learning Center ([http://www.newschool.edu/learning-center](http://www.newschool.edu/learning-center)), which offers math tutoring (including statistics)
 - The University (and associated) Libraries: ([http://library.newschool.edu](http://library.newschool.edu))
