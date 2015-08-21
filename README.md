@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 Advanced Quantitative Methods - NURP 6015 - Fall 2015
 =====================================================
 
@@ -30,11 +27,12 @@ Resources
 
 ### Textbooks - SUBJECT TO CHANGE ###
 
-Most of the readings for the class are drawn from the following three books. I have tried to use only free textbooks where possible. Successful completion of the course requires you to read some material that goes beyond what we discuss in class. 
+Most of the readings for the class are drawn from the following books. I have tried to use only free textbooks where possible. Successful completion of the course requires you to read some material that goes beyond what we discuss in class. 
 
 - Diez, D., Barr, C. Çetinkaya-Rundel, M. (2014). Introductory Statistics with Randomization and Simulation. First Edition. Available free of charge at: [https://www.openintro.org/stat/textbook.php?stat_book=isrs](https://www.openintro.org/stat/textbook.php?stat_book=isrs). 
-- James, G. et al. (2013). An Introduction to Statistical Learning with Applications in R. Springer. Available free of charge at: [http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 - Lander, J. P. (2014). R for everyone: Advanced Analytics and Graphics. Addison-Wesley.
+- Maindonald, J., Braun, J. W. (2010). Data Analysis and Graphics Using R. An Example-Based Approach. Third Edition. Cambridge University Press.
+- James, G. et al. (2013). An Introduction to Statistical Learning with Applications in R. Springer. Available free of charge at: [http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
 There are thousands of books and other resources for learning statistical methods available on the internet. Some additional resources that may be useful include:
 
@@ -94,7 +92,7 @@ questions from last year's exam. Questions in this year's mid-term exam will be 
 
 #### Project ####
 
-During the course of the semester, you will be working on a research project using real-world data in groups of three students. Collaboration through the version control software Github will be essential to succeeding in your research project and will allow me to judge the individual contribution of each member of the group. You are encouraged to select a topic related to your field of research or interest. The first step will consist in finding a suitable existing dataset (you may need to adjust your research question to the available data). Discuss this choice with me in office hours. Then you will explore the dataset along the lines discussed in class, making sure that you understand the structure of the dataset as well as potential difficulties (we will discuss some of these in class). Finally you will conduct a statistical analysis, and write up the results in a clear and concise report of around 10-15 pages. I will say more about the criteria for a good report during the course of the semester.
+During the course of the semester, you will be working on a research project using real-world data in small groups. Collaboration through the version control software Github will be essential to succeeding in your research project and will allow me to judge the individual contribution of each member of the group. You are encouraged to select a topic related to your field of research or interest. The first step will consist in finding a suitable existing dataset (you may need to adjust your research question to the available data). Discuss this choice with me in office hours. Then you will explore the dataset along the lines discussed in class, making sure that you understand the structure of the dataset as well as potential difficulties (we will discuss some of these in class). Finally you will conduct a statistical analysis, and write up the results in a clear and concise report of around 10-15 pages. I will say more about the criteria for a good report during the course of the semester.
 
 | Assignment              | Percent of Final Mark | Date             |
 | ----------------------- | --------------------- | ---------------- |
@@ -113,17 +111,17 @@ The following schedule is *tentative* and *incomplete*.
 
 - Diez et al. 1
 - [ Lander 1, 2, 3, 4.1, 4.2 ]
-- Swirl course: Overview of statistics
+- [ Swirl course: Overview of statistics ]
 
 #### Weeks 2 and 3
 
-Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually convenient time during these two weeks to schedule at least one class on another day (instead we will drop a class later in the semester). If this should not be possible, I will assign a number of easy homework exercises (Swirl courses) for you to become acquainted with R.
+Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually convenient time during these two weeks to schedule at least one class on another day (instead we will drop a class later in the semester).
 
 #### Week 4: Importing and exploring data: Distributions and Relationships
 
 - Diez et al. 1
 - [ Lander  4, 5, 6, 7 , 12]
-- Swirl courses: Exploratory Data Analysis, GGPlot2parts 1 and 2
+- [ Swirl courses: Exploratory Data Analysis, GGPlot2parts 1 and 2 ]
 
 #### Week 5: Introduction to Inference. Simulations. Normal distribution
 
@@ -140,22 +138,22 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 - Diez et al. 5, 6
 - [ Lander 16 ]
 
-#### Week 8: Interactions and predictions. 
+#### Week 8: Interactions and predictions. Bootstrap.
 
 - Diez et al. 5, 6
 - [ Lander 16 ]
 
-#### Week 9: Testing assumptions. Residual diagnostics and model comparison.  
+#### Week 9: Testing assumptions. Residual diagnostics and model comparison.
 
 - Diez et al. 6
-- [ Lander 18.1, 18.2 ]
+- [ Lander 18 ]
 
-#### Week 10: Model misspecification. Experimental vs. observational studies. Causal inference.
+#### Week 10: Model comparison and misspecification. Experimental vs. observational studies.
 
 - Diez et al. 1
-- Reddy, S. (2013). Randomise This! On Poor Economics. Review of Agrarian Studies (2: 2)
+- [ Lander 18 ]
 
-#### Week 11: Report writing. Reproducibility.
+#### Week 11: Interlude: Report writing. Reproducibility. Various data problems.
 
 - Lander 23
 
@@ -164,22 +162,25 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 - Diez et al. 6
 - Lander 17
 
-#### Week 13: Logistic regression and extensions 
+#### Week 13: Cross validation and General linear models 
 
+- Maindonald & Braun 8
 - James et al. 5.2
-- Lander 18.3
 
-#### Week 14: TBA (e.g. Principal Component Analysis)
+#### Week 14: TBA (e.g. Multilevel modeling 1)
+
+- Field 19
+- Maindonald & Braun 10
+
+#### Week 15: TBA (e.g. Multilevel modeling 2)
+
+- Field 19
+- Maindonald & Braun 10
+
+#### Week 16: TBA (e.g. Principal component analysis)
 
 - James et al. 10.1, 10.2, 10.4
-
-#### Week 15: TBA (e.g. Cluster Analysis)
-
-- James et al. 10.3, 10.5
-- Lander 22
-- Swirl course: Exploratory Data Analysis, Clustering Example
-
-#### Week 16: Multilevel modeling/Review
+- Maindonald & Braun 12, 13
 
 
 Course Policies
