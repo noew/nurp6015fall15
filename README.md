@@ -25,20 +25,21 @@ The class builds on the linear regression model that you may have already encoun
 Resources
 ---------
 
-### Textbooks - SUBJECT TO CHANGE ###
+### Textbooks ###
 
-Most of the readings for the class are drawn from the following books. I have tried to use only free textbooks where possible. Successful completion of the course requires you to read some material that goes beyond what we discuss in class. 
+Most of the readings for the class are drawn from the following books. Successful completion of the course requires you to read some material that goes beyond what we discuss in class. 
 
 - Diez, D., Barr, C. Çetinkaya-Rundel, M. (2014). Introductory Statistics with Randomization and Simulation. First Edition. Available free of charge at: [https://www.openintro.org/stat/textbook.php?stat_book=isrs](https://www.openintro.org/stat/textbook.php?stat_book=isrs). 
-- Lander, J. P. (2014). R for everyone: Advanced Analytics and Graphics. Addison-Wesley.
-- Maindonald, J., Braun, J. W. (2010). Data Analysis and Graphics Using R. An Example-Based Approach. Third Edition. Cambridge University Press.
-- James, G. et al. (2013). An Introduction to Statistical Learning with Applications in R. Springer. Available free of charge at: [http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+- Gelman, A., Hill, J. (2007). Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge University Press. This book is ordered at the Campus book store.
+- Lander, J. P. (2014). R for everyone: Advanced Analytics and Graphics. Addison-Wesley. This book is useful to have, but not mandatory. 
 
 There are thousands of books and other resources for learning statistical methods available on the internet. Some additional resources that may be useful include:
 
 - A more verbose introductory statistics book with very little mathematics: Field, A., Miles, J. & Field, Z. (2012). Discovering Statistics Using R.  SAGE Publications.
 - More on the different free/open-source software that are combined in reproducible research (R, Git, knitr, Latex): Gandrud, C. (2013). Reproducible Research with R and R Studio. CRC Press.
-- If you want to continue your studies of applied statistics, this is one of the best books: Gelman, A., Hill, J. (2007). Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge University Press.
+- Maindonald, J., Braun, J. W. (2010). Data Analysis and Graphics Using R. An Example-Based Approach. Third Edition. Cambridge University Press.
+- James, G. et al. (2013). An Introduction to Statistical Learning with Applications in R. Springer. Available free of charge at: [http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+
 
 Certain readings will be posted on Canvas (please check this syllabus and your email for announcements.)
 
@@ -70,9 +71,7 @@ By the end of this course, I hope that you will have made progress towards learn
 
 - How typical research questions in science, policy and management are approached through statistical analysis, including the assumptions and limitations of different tools.
 - How fundamental concepts of statistical and probability theory help you understand new tools and methods that you may need to learn later on in your own work.
-- Communication and rhetorical skills: How to present results from a
-statistical analysis in the form of a clear, convincing and accurate
-report.
+- Communication and rhetorical skills: How to present results from a statistical analysis in the form of a clear, convincing and accurate report.
 - Understand the importance of reproducibility and a structured workflow in group projects. Learn how to use computer software for this purpose (R scripts, version control).
 - Qualitative & quantitative reasoning: How to think abstractly about complex processes and develop models that capture this complexity at the appropriate level of abstraction.
 
@@ -87,8 +86,7 @@ There should be around three homework assignments during the course. Assignments
 
 #### Mid-term exam ####
 
-This exam will take place around two thirds of the way into the course and will cover the material seen so far during the semester. The exam will be in-class, closed book, and will emphasize interpretation of computer output. Early in the semester I will give you a few sample
-questions from last year's exam. Questions in this year's mid-term exam will be similar, but not identical.
+This exam will take place around two thirds of the way into the course and will cover the material seen so far during the semester. The exam will be in-class, closed book, and will emphasize conceptual understanding and interpretation of computer output. 
 
 #### Project ####
 
@@ -126,6 +124,7 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 5: Introduction to Inference. Simulations. Normal distribution
 
 - Diez et al. 2
+- Gelman & Hill 2
 - [ Lander 14, 15 ]
 
 #### Week 6: Comparing two means. Introduction to linear regression.
@@ -141,15 +140,18 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 8: Interactions and predictions. Bootstrap.
 
 - Diez et al. 5, 6
+- Gelman & Hill 3, 4
 - [ Lander 16 ]
 
 #### Week 9: Testing assumptions. Residual diagnostics and model comparison.
 
 - Diez et al. 6
+- Gelman & Hill 3, 4
 - [ Lander 18 ]
 
 #### Week 10: Model comparison and misspecification. Experimental vs. observational studies.
 
+- Gelman & Hill 9, 10
 - Diez et al. 1
 - [ Lander 18 ]
 
@@ -160,27 +162,31 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 12: Introduction to Logistic Regression
 
 - Diez et al. 6
-- Lander 17
+- Gelman & Hill 5
+- [ Lander 17 ]
 
 #### Week 13: Cross validation and General linear models 
 
-- Maindonald & Braun 8
-- James et al. 5.2
+- Gelman & Hill 6
+- [ James et al. 5.2 ]
 
 #### Week 14: TBA (e.g. Multilevel modeling 1)
 
-- Field 19
-- Maindonald & Braun 10
+- Gelman & Hill 11
+- [ Field 19 ]
+- [ Maindonald & Braun 10 ]
 
 #### Week 15: TBA (e.g. Multilevel modeling 2)
 
-- Field 19
-- Maindonald & Braun 10
+- Gelman & Hill 12
+- [ Field 19 ]
+- [ Maindonald & Braun 10 ]
 
-#### Week 16: TBA (e.g. Principal component analysis)
+#### Week 16: TBA (e.g. Multilevel modeling 3, Principal component analysis)
 
-- James et al. 10.1, 10.2, 10.4
-- Maindonald & Braun 12, 13
+- Gelman & Hill 13, 14
+- [ James et al. 10.1, 10.2, 10.4 ]
+- [ Maindonald & Braun 12, 13 ]
 
 
 Course Policies
