@@ -95,7 +95,7 @@ This exam will take place around two thirds of the way into the course and will 
 
 During the course of the semester, you will be working on a research project using real-world data in small groups. Collaboration through the version control software Github will be essential to succeeding in your research project and will allow me to judge the individual contribution of each member of the group. You are encouraged to select a topic related to your field of research or interest. The first step will consist in finding a suitable existing dataset (you may need to adjust your research question to the available data). Discuss this choice with me in office hours. Then you will explore the dataset along the lines discussed in class, making sure that you understand the structure of the dataset as well as potential difficulties (we will discuss some of these in class). Finally you will conduct a statistical analysis, and write up the results in a clear and concise report of around 10-15 pages. In the last class, groups will present their work in brief presentations of no more than 15 minutes.
 
-Detailed guidelines for the research project can be found in the file [project_assignment.html](project_assignment.html). 
+Detailed guidelines for the research project can be found in the file [project_assignment.md](project_assignment.md). 
 
 | Assignment              | Percent of Final Mark | Date             |
 | ----------------------- | --------------------- | ---------------- |
