@@ -135,11 +135,13 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 #### Week 6: Comparing two means. Introduction to linear regression.
 
 - Diez et al. 4, 5
+- Gelman & Hill 3.1
 - [ Lander 15, 16 ]
 
 #### Week 7: Inference for regression. Multivariate regression.
 
 - Diez et al. 5, 6
+- Gelman & Hill 3.2, 3.4
 - [ Lander 16 ]
 
 #### Week 8: Interactions and predictions. Bootstrap.
