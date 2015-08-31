@@ -121,14 +121,13 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 - Diez et al. 1
 - [ Lander  4, 5, 6, 7 ]
 - Swirl course: Open Intro
-- Swirl course: Exploratory Data Analysis, parts 
 
 #### Week 5: Introduction to Inference. Simulations. Normal distribution
 
 - Diez et al. 2, 3.1, 3.2
 - Gelman & Hill 2
 - [ Lander 14, 15 ]
-- Swirl course: Exploratory Data Analysis, GGPlot2parts 1 and 2
+- Swirl course: Exploratory Data Analysis, only GGPlot2 parts 1 and 2
 
 #### Week 6: Comparing two means. Introduction to linear regression.
 
@@ -176,7 +175,7 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 
 #### Week 14: TBA (e.g. Multilevel modeling 1)
 
-- Gelman & Hill 11
+- Gelman & Hill 1, 11
 - [ Field 19 ]
 - [ Maindonald & Braun 10 ]
 
