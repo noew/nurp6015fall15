@@ -7,8 +7,7 @@ Milano School of International Affairs, Management, and Urban Policy
 - Class time: Monday: 8:00pm--9:50pm; Room D-701, 6 E 16th Street
 - Instructor: Noe Wiener
 - email: wiener@newschool.edu
-- Office hours: Tuesday 5pm-7pm; Room 308-D, University Center
-- Class website: [http://github.com/noew/nurp6015](http://github.com/noew/nurp6015)
+- Office hours: Tuesday 6:30pm-8:30pm; Room D-1126, 6 E 16th Street (*please schedule an appointment one day in advance*)
 
 Course description
 ------------------
@@ -51,7 +50,7 @@ Computers have transformed how statistical analysis is conducted in everyday wor
 - *R*, a system for statistical analyses and graphics. *R* is available as a free download from [http://www.r-project.org](http://www.r-project.org).
 - You also need to install a front-end called *RStudio*, an integrated development
 environment for *R*, available free of charge from [http://www.rstudio.com/products/rstudio/download/](http://www.rstudio.com/products/rstudio/download/).
-- The version control software *Git*, and in particular the simplified version provided by Github. *Git* combines functions of backup, version control and collaboration on code and documents. You will need to open a free account on [http://www.github.com](http://www.github.com) and download the Github application.
+- The version control software *Git* combines functions of backup, version control and collaboration on code and documents. You will need to open a free account on [http://www.github.com](http://www.github.com) and download the Github application.
 
 If you plan on using your own computer during the semester, try installing these software packages before the first class. This way, I can help you if you run into difficulties during the installation.
 
@@ -112,15 +111,21 @@ The following schedule is *tentative* and *incomplete*.
 - Diez et al. 1
 - [ Lander 1, 2, 3, 4.1, 4.2 ]
 
+Overview of the class, administrative stuff, basics of R (data frames, simple calculations, $notation, simple plotting)
+Lab: First explorations with simple data set using the console.
+
 #### Weeks 2 and 3
 
-Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually convenient time during these two weeks to schedule at least one class on another day (instead we will drop a class later in the semester).
+Sept. 7 and Sept. 14 are university holidays. 
 
 #### Week 4: Importing and exploring data: Distributions and Relationships
 
 - Diez et al. 1
 - [ Lander  4, 5, 6, 7 ]
-- Swirl course: Open Intro
+- Swirl course: Open Intro (assignments, getting help, types of data, types of plots, measures of central tendency and dispersion)
+
+Quick review of basic statistical concepts. Deepening our understanding of R: Importing data, manipulating data frames, advanced plotting (GGPlot2).  
+Lab: R Script file which executes simple data gathering and analysis. Discussion of possible data sources for research project.
 
 #### Week 5: Introduction to Inference. Simulations. Normal distribution
 
@@ -129,11 +134,18 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 - [ Lander 14, 15 ]
 - Swirl course: Exploratory Data Analysis, only GGPlot2 parts 1 and 2
 
+Classical theory of inference using the "normal model", vs. randomization-based inference using permutation testing and simulation methods. Inference for proportions.
+Lab: Simulation study on full population data.
+
 #### Week 6: Comparing two means. Introduction to linear regression.
 
 - Diez et al. 4.1, 4.2, 4.3, 4.5, 5.1, 5.2
 - Gelman & Hill 3.1
 - [ Lander 15, 16 ]
+- Open a free Github account before class!
+
+Comparing the mean of two groups using regression analysis. Why this is equivalent to t-tests. 
+Lab: Using RMarkdown files. Keeping track of changes using Git.
 
 #### Week 7: Inference for regression. Multivariate regression.
 
@@ -141,11 +153,17 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 - Gelman & Hill 3.2, 3.4
 - [ Lander 16 ]
 
+Confidence intervals for regression coefficients (from the normal model vs. using simulation). Lurking variables. Causal vs. predictive interpretation of regression coefficients. Transformed variables and interpretation of coefficients.
+Lab: Regression modeling and formula ~ notation in R.
+
 #### Week 8: Interactions and predictions.
 
 - Diez et al. 5, 6.1
 - Gelman & Hill 3, 4
 - [ Lander 16 ]
+
+Varying effects are the norm. More on the ~ notation in R. Generating predictions from our models. Predictive vs. inferential uncertainty. Plotting models and the fitted data using GGPlot.
+Lab: Sharing files via Github (push, pull, merge)
 
 #### Week 9: Testing assumptions. Residual diagnostics and model comparison.
 
@@ -153,43 +171,49 @@ Sept. 7 and Sept. 14 are university holidays. We will try to find a mutually con
 - Gelman & Hill 3, 4
 - [ Lander 18 ]
 
-#### Week 10: Model comparison and misspecification. Experimental vs. observational studies.
+Standard diagnostic plots. When do we need them? What can we do about problems? Which model is better? Careful with step-wise model selection. Using simulation for model checking.
+Lab: Discussion of group projects. Missing data and what to do about it.
+
+#### Week 10: Experimental vs. observational studies.
 
 - Gelman & Hill 9, 10
 - [ Lander 18 ]
 
-#### Week 11: Interlude: Report writing. Reproducibility. Various data problems.
+Under which conditions can we give causal interpretation to our estimates? The potential outcome framework. What are the consequences of a "misspecified" model? Some data problems: Imbalance and lack of overlap. 
+Lab: Using knitr chunks. Keeping separate files for analysis, data gathering, presentation. 
 
-- Lander 23
+#### Week 11: Midterm exam (Nov 9)
 
-#### Week 12: Introduction to Logistic Regression
+#### Week 12: Logistic Regression
 
 - Diez et al. 6.4
 - Gelman & Hill 5
 - [ Lander 17 ]
 
-#### Week 13: Cross validation and General linear models 
+How to model a dichotomous outcome variable. Interpretation of logistic regression.
+Lab: Plotting logistic model and fitted data. Discussion of group projects.
 
-- Gelman & Hill 6
+#### Week 13: General linear models and simulation
+
+- Gelman & Hill 7, 8
 - [ James et al. 5.2 ]
+
+Some examples of GLM models. More on using simulation for inferential uncertainty in regression models and for assessing model fit.
+Lab: Using R Presentation. Discussing group projects.
 
 #### Week 14: TBA (e.g. Multilevel modeling 1)
 
-- Gelman & Hill 1, 11
+- Gelman & Hill 1, 11, 12
 - [ Field 19 ]
 - [ Maindonald & Braun 10 ]
 
 #### Week 15: TBA (e.g. Multilevel modeling 2)
 
-- Gelman & Hill 12
+- Gelman & Hill 12, 13
 - [ Field 19 ]
 - [ Maindonald & Braun 10 ]
 
-#### Week 16: TBA (e.g. Multilevel modeling 3, Principal component analysis)
-
-- Gelman & Hill 13, 14
-- [ James et al. 10.1, 10.2, 10.4 ]
-- [ Maindonald & Braun 12, 13 ]
+#### Week 16: Review and group presentations
 
 
 Course Policies
