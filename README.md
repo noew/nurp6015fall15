@@ -112,6 +112,7 @@ The following schedule is *tentative* and *incomplete*.
 - [ Lander 1, 2, 3, 4.1, 4.2 ]
 
 Overview of the class, administrative stuff, basics of R (data frames, simple calculations, $notation, simple plotting)
+
 Lab: First explorations with simple data set using the console.
 
 #### Weeks 2 and 3
@@ -124,7 +125,8 @@ Sept. 7 and Sept. 14 are university holidays.
 - [ Lander  4, 5, 6, 7 ]
 - Swirl course: Open Intro (assignments, getting help, types of data, types of plots, measures of central tendency and dispersion)
 
-Quick review of basic statistical concepts. Deepening our understanding of R: Importing data, manipulating data frames, advanced plotting (GGPlot2).  
+Quick review of basic statistical concepts. Deepening our understanding of R: Importing data, manipulating data frames, advanced plotting (GGPlot2).
+
 Lab: R Script file which executes simple data gathering and analysis. Discussion of possible data sources for research project.
 
 #### Week 5: Introduction to Inference. Simulations. Normal distribution
@@ -135,6 +137,7 @@ Lab: R Script file which executes simple data gathering and analysis. Discussion
 - Swirl course: Exploratory Data Analysis, only GGPlot2 parts 1 and 2
 
 Classical theory of inference using the "normal model", vs. randomization-based inference using permutation testing and simulation methods. Inference for proportions.
+
 Lab: Simulation study on full population data.
 
 #### Week 6: Comparing two means. Introduction to linear regression.
@@ -145,6 +148,7 @@ Lab: Simulation study on full population data.
 - Open a free Github account before class!
 
 Comparing the mean of two groups using regression analysis. Why this is equivalent to t-tests. 
+
 Lab: Using RMarkdown files. Keeping track of changes using Git.
 
 #### Week 7: Inference for regression. Multivariate regression.
@@ -154,6 +158,7 @@ Lab: Using RMarkdown files. Keeping track of changes using Git.
 - [ Lander 16 ]
 
 Confidence intervals for regression coefficients (from the normal model vs. using simulation). Lurking variables. Causal vs. predictive interpretation of regression coefficients. Transformed variables and interpretation of coefficients.
+
 Lab: Regression modeling and formula ~ notation in R.
 
 #### Week 8: Interactions and predictions.
@@ -163,6 +168,7 @@ Lab: Regression modeling and formula ~ notation in R.
 - [ Lander 16 ]
 
 Varying effects are the norm. More on the ~ notation in R. Generating predictions from our models. Predictive vs. inferential uncertainty. Plotting models and the fitted data using GGPlot.
+
 Lab: Sharing files via Github (push, pull, merge)
 
 #### Week 9: Testing assumptions. Residual diagnostics and model comparison.
@@ -172,7 +178,8 @@ Lab: Sharing files via Github (push, pull, merge)
 - [ Lander 18 ]
 
 Standard diagnostic plots. When do we need them? What can we do about problems? Which model is better? Careful with step-wise model selection. Using simulation for model checking.
-Lab: Discussion of group projects. Missing data and what to do about it.
+
+Lab: Discussion of group projects. Missing data and what to do about it. 
 
 #### Week 10: Experimental vs. observational studies.
 
@@ -180,6 +187,7 @@ Lab: Discussion of group projects. Missing data and what to do about it.
 - [ Lander 18 ]
 
 Under which conditions can we give causal interpretation to our estimates? The potential outcome framework. What are the consequences of a "misspecified" model? Some data problems: Imbalance and lack of overlap. 
+
 Lab: Using knitr chunks. Keeping separate files for analysis, data gathering, presentation. 
 
 #### Week 11: Midterm exam (Nov 9)
@@ -191,6 +199,7 @@ Lab: Using knitr chunks. Keeping separate files for analysis, data gathering, pr
 - [ Lander 17 ]
 
 How to model a dichotomous outcome variable. Interpretation of logistic regression.
+
 Lab: Plotting logistic model and fitted data. Discussion of group projects.
 
 #### Week 13: General linear models and simulation
@@ -199,7 +208,8 @@ Lab: Plotting logistic model and fitted data. Discussion of group projects.
 - [ James et al. 5.2 ]
 
 Some examples of GLM models. More on using simulation for inferential uncertainty in regression models and for assessing model fit.
-Lab: Using R Presentation. Discussing group projects.
+
+Lab: Using R Presentation. Discussing group projects. Special issues with complex surveys (weights etc.).
 
 #### Week 14: TBA (e.g. Multilevel modeling 1)
 
