@@ -4,12 +4,15 @@ October 5, 2015
 
 This document lists some useful data sources for the research projects in our Advanced Quantitative Methods class. You are welcome modify and add to this document by making a pull request, or by discussing changes in the "Issues" to this repo.
 
-- [https://www.ciser.cornell.edu/ASPs/datasource.asp](https://www.ciser.cornell.edu/ASPs/datasource.asp)
-- [http://www.data.gov/](http://www.data.gov/)
-- [http://www.census.gov/](http://www.census.gov/)
-- [http://www.issp.org/](http://www.issp.org/)
-- [http://www.europeansocialsurvey.org/](http://www.europeansocialsurvey.org/)
+- [Cornell's Internet Data Sources for Social Scientists](https://www.ciser.cornell.edu/ASPs/datasource.asp)
+- [U.S. Government’s open data](http://www.data.gov/)
+- [U.S. Census Bureau](http://www.census.gov/)
+- [ISSP International Social Survey Programme](http://www.issp.org/)
+- [European Social Survey](http://www.europeansocialsurvey.org/)
 - [CESSDA - Council of European Social Science Data Archives](http://www.cessda.org/)
 - [SocioSite: SOCIAL SCIENCE DATA ARCHIVES](http://www.sociosite.net/databases.php)
-- [http://www.inside-r.org/howto/finding-data-internet](http://www.inside-r.org/howto/finding-data-internet)
-- [http://archive.ics.uci.edu/ml/](http://archive.ics.uci.edu/ml/)
+- [Finding Data on the Internet](http://www.inside-r.org/howto/finding-data-internet)
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+- [https://www.usaspending.gov/Pages/Default.aspx](https://www.usaspending.gov/Pages/Default.aspx)
+- [Singapore's Open Data Initiative](http://www.data.gov.sg/)
+- [https://www.facebook.com/groups/poliscidata/](https://www.facebook.com/groups/poliscidata/)
