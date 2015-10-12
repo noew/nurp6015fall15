@@ -16,3 +16,6 @@ This document lists some useful data sources for the research projects in our Ad
 - [https://www.usaspending.gov/Pages/Default.aspx](https://www.usaspending.gov/Pages/Default.aspx)
 - [Singapore's Open Data Initiative](http://www.data.gov.sg/)
 - [https://www.facebook.com/groups/poliscidata/](https://www.facebook.com/groups/poliscidata/)
+- [World Bank AGI Data Portal](https://www.agidata.org/site/)
+- [Enigma](http://enigma.io/)
+- [U.S. Department of Housing and Urban Development](http://www.huduser.gov/portal/datasets/HUD_data_matrix.html)
