@@ -20,3 +20,6 @@ This document lists some useful data sources for the research projects in our Ad
 - [Google Public Data](https://www.google.com/publicdata/directory)
 - [NYC Open Data](https://data.cityofnewyork.us/)
 - [UNDP Open Data](https://data.undp.org/)
+- [World Bank AGI Data Portal](https://www.agidata.org/site/)
+- [Enigma](http://enigma.io/)
+- [U.S. Department of Housing and Urban Development](http://www.huduser.gov/portal/datasets/HUD_data_matrix.html)
