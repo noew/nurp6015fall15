@@ -16,3 +16,7 @@ This document lists some useful data sources for the research projects in our Ad
 - [https://www.usaspending.gov/Pages/Default.aspx](https://www.usaspending.gov/Pages/Default.aspx)
 - [Singapore's Open Data Initiative](http://www.data.gov.sg/)
 - [https://www.facebook.com/groups/poliscidata/](https://www.facebook.com/groups/poliscidata/)
+- [World Bank Open Data](http://data.worldbank.org/)
+- [Google Public Data](https://www.google.com/publicdata/directory)
+- [NYC Open Data](https://data.cityofnewyork.us/)
+- [UNDP Open Data](https://data.undp.org/)
