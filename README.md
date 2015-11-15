@@ -97,8 +97,8 @@ Detailed guidelines for the research project can be found in the file [project_a
 | ----------------------- | --------------------- | ---------------- |
 | Homework 1              | 8%                    | 28 September     |
 | Homework 2              | 8%                    | 19 October       |
-| Homework 3              | 9%                    | 2 November       |
-| Mid-term exam           | 25%                   | ca. 9 November   |
+| Homework 3              | 9%                    | 23 November      |
+| Mid-term exam           | 25%                   | 9 November       |
 | Research project        | 50%                   | 21 December      |
 
 Class Schedule
@@ -157,7 +157,7 @@ Lab: Using RMarkdown files. Keeping track of changes using Git.
 - Gelman & Hill 3.2, 3.4
 - [ Lander 16 ]
 
-Confidence intervals for regression coefficients (from the normal model vs. using simulation). Lurking variables. Causal vs. predictive interpretation of regression coefficients. Transformed variables and interpretation of coefficients.
+Confidence intervals for regression coefficients (from the normal model vs. using simulation). Lurking variables. Causal vs. predictive interpretation of regression coefficients. Generating predictions from our models.
 
 Lab: Regression modeling and formula ~ notation in R.
 
@@ -167,28 +167,30 @@ Lab: Regression modeling and formula ~ notation in R.
 - Gelman & Hill 3, 4
 - [ Lander 16 ]
 
-Varying effects are the norm. More on the ~ notation in R. Generating predictions from our models. Predictive vs. inferential uncertainty. Plotting models and the fitted data using GGPlot.
+Transformed variables and interpretation of coefficients. Varying effects are the norm. Predictive vs. inferential uncertainty. 
 
-Lab: Sharing files via Github (push, pull, merge)
+Lab: Plotting models and the fitted data using GGPlot. Sharing files via Github (push, pull, merge)
 
 #### Week 9: Testing assumptions. Residual diagnostics and model comparison.
 
 - Diez et al. 6.2, 6.3
 - Gelman & Hill 3, 4
 - [ Lander 18 ]
+- [  ]
 
-Standard diagnostic plots. When do we need them? What can we do about problems? Which model is better? Careful with step-wise model selection. Using simulation for model checking.
+Standard diagnostic plots, in particular QQPlots. When do we need them? What can we do about problems? Which model is better? Careful with step-wise model selection. Using simulation for model checking.
 
-Lab: Discussion of group projects. Missing data and what to do about it. 
+Lab: Running some regressions. Examples of possible group projects.
 
 #### Week 10: Experimental vs. observational studies.
 
 - Gelman & Hill 9, 10
 - [ Lander 18 ]
+- [ [Reddy, S. (2012). Randomise This! On Poor Economics. Review of Agrarian Studies](http://www.ras.org.in/randomise_this_on_poor_economics)  ]
 
 Under which conditions can we give causal interpretation to our estimates? The potential outcome framework. What are the consequences of a "misspecified" model? Some data problems: Imbalance and lack of overlap. 
 
-Lab: Using knitr chunks. Keeping separate files for analysis, data gathering, presentation. 
+Review for midterm
 
 #### Week 11: Midterm exam (Nov 9)
 
@@ -197,6 +199,7 @@ Lab: Using knitr chunks. Keeping separate files for analysis, data gathering, pr
 - Diez et al. 6.4
 - Gelman & Hill 5
 - [ Lander 17 ]
+- [ [Lax, Jeffrey and Phillips, Justin (2009): Gay Rights in the States: Public Opinion and Policy Responsiveness. American Political Science Review (103:3)](http://www.columbia.edu/~jrl2124/Lax_Phillips_Gay_Policy_Responsiveness_2009.pdf) ]
 
 How to model a dichotomous outcome variable. Interpretation of logistic regression.
 
@@ -204,7 +207,8 @@ Lab: Plotting logistic model and fitted data. Discussion of group projects.
 
 #### Week 13: General linear models and simulation
 
-- Gelman & Hill 7, 8
+- Gelman & Hill 6, 7, 8
+- Read the tutorial for Dplyr [https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
 - [ James et al. 5.2 ]
 
 Some examples of GLM models. More on using simulation for inferential uncertainty in regression models and for assessing model fit.
@@ -214,17 +218,20 @@ Lab: Using R Presentation. Discussing group projects. Special issues with comple
 #### Week 14: TBA (e.g. Multilevel modeling 1)
 
 - Gelman & Hill 1, 11, 12
+- [ [Card, D. & Krueger, A. (1994). Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania. American Economic Review.](http://davidcard.berkeley.edu/papers/njmin-aer.pdf) ]
 - [ Field 19 ]
 - [ Maindonald & Braun 10 ]
 
 #### Week 15: TBA (e.g. Multilevel modeling 2)
 
 - Gelman & Hill 12, 13
+- [ [Gelman, A. (2015). The Connection Between Varying TreatmentEffects and the Crisis of Unreplicable Research: A Bayesian Perspective. Journal of Management (41:2)](http://www.stat.columbia.edu/~gelman/research/published/bayes_management.pdf) ]
 - [ Field 19 ]
 - [ Maindonald & Braun 10 ]
 
-#### Week 16: Review and group presentations
+#### Week 16: Review and group presentations 1
 
+#### Week 17: Review and group presentations 2
 
 Course Policies
 ---------------
