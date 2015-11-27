@@ -351,7 +351,6 @@ Lab: Implementing simulations. Discussing group projects.
 
 #### Week 14: Multilevel modeling 1
 
-<<<<<<< HEAD
 -   Gelman & Hill 1, 11, 12
 -   \[ [Card, D. & Krueger, A. (1994). Minimum Wages and Employment: A
     Case Study of the Fast-Food Industry in New Jersey and Pennsylvania.
@@ -361,9 +360,6 @@ Lab: Implementing simulations. Discussing group projects.
 -   \[ Field 19 \]
 -   \[ Lander 19.2 \]
 -   \[ Maindonald & Braun 10 \]
-=======
-Lab: Implementing simulations. Discussing group projects.
->>>>>>> 306d3c4234fc65d1c8bfe02e408ed8f9daaf859c
 
 Lab: Creating RPres Presentations. Discussing group projects.
 
